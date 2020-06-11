@@ -1,6 +1,6 @@
 const fs = require("fs");
 const inquirer = require("inquirer");
-console.log("In the editors you can use Markup language")
+console.log("In the editors you can use Markup language :")
 inquirer
   .prompt([
     {
