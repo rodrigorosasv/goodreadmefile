@@ -1,0 +1,8 @@
+# Ignore everything
+*node_modules/
+*.DS_Store
+
+# But not these files...
+!.gitignore
+!index.js
+
